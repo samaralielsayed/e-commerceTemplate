@@ -1,2 +1,2 @@
-# e-commerceWebsite
-e-commerce website with Html,CSS,Bootstrap and JS
+# e-commerceTemplate NTI
+A responsive e-commerce web design template created during training at NTI, utilizing HTML, CSS, JavaScript, and Bootstrap.
